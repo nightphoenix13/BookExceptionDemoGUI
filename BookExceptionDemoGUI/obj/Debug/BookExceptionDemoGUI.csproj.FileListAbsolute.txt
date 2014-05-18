@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\bin\Debug\BookExceptionDemoGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\bin\Debug\BookExceptionDemoGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\bin\Debug\BookExceptionDemoGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\BookExceptionDemoGUI\BookExceptionDemoGUI\obj\Debug\BookExceptionDemoGUI.pdb
